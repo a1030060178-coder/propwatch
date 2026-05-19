@@ -234,9 +234,9 @@ export default function HomePage() {
         <h3 className="text-xl font-bold mb-2">PropWatch Pro</h3>
         <p className="text-zinc-500 mb-4">Unlimited proposals, email alerts, PDF export, custom branding, team dashboard.</p>
         <p className="text-2xl font-bold mb-4">$15<span className="text-sm font-normal text-zinc-400">/month</span></p>
-        <button className="bg-zinc-900 text-white rounded-xl px-8 py-3 font-semibold hover:bg-zinc-800 transition" disabled>
-          Coming Soon — Paddle Pending
-        </button>
+        <a href="https://ko-fi.com/penn662500" target="_blank" className="inline-block bg-zinc-900 text-white rounded-xl px-8 py-3 font-semibold hover:bg-zinc-800 transition">
+          Support Pro — $15/mo
+        </a>
       </div>
     </div>
   );
